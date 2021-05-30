@@ -14,7 +14,13 @@ Data Analyst Portfolio
     - Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
 - Created views to store/condense the data in SSMS and then export into Tableau for data visualizations
 
-- Built 3 different Tableau vizzes:
+- Built 3 different Tableau vizzes for final analysis:
     - [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
     - [US Covi-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
+
+
+
+
+# [Nashville Housing Data ~ Stricly Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+- This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
