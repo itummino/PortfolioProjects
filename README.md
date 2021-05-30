@@ -1,7 +1,7 @@
 # Isabel's Projects
 Data Analyst Portfolio
 
-# [Covid-19 Analysis ~ Cases, Deaths, Vaccinations Data] (https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
+# [Covid-19 Analysis ~ Cases, Deaths, Vaccinations Data](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
