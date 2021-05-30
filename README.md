@@ -1,6 +1,8 @@
 # Isabel's Projects
 Data Analyst Portfolio
 
+
+![](https://github.com/itummino/PortfolioProjects/blob/main/images/covid-19.jpg) 
 # [Covid-19 Analysis ~ Cases, Deaths, Vaccinations Data](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
@@ -19,7 +21,6 @@ Data Analyst Portfolio
     - [US Covi-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 
-![](https://github.com/itummino/PortfolioProjects/blob/main/images/covid-19.jpg) 
 
 
 # [Nashville Housing Data ~ Stricly Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
