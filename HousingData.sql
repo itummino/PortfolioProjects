@@ -11,7 +11,7 @@ ALTER TABLE PortfolioProject..NashvilleHousing
 ALTER COLUMN SaleDate DATE
 
 SELECT SaleDate FROM PortfolioProject..NashvilleHousing
--- this worked, SaleDate is now just date format
+-- successful, SaleDate is now just date format
 
 
 ------- Populate Property Address data, exclude NULL PropertyAddresses --------------
