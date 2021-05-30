@@ -19,7 +19,7 @@ Data Analyst Portfolio
     - [US Covi-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 
-![]() 
+![](https://github.com/itummino/PortfolioProjects/blob/main/images/covid-19.jpg) 
 
 
 # [Nashville Housing Data ~ Stricly Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
