@@ -10,12 +10,13 @@ Data Analyst Portfolio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
 Points of interest: 
-    - Countries with the highest infection rate and highest death count compared to the population, also 
+    - Countries with the highest infection rate and highest death count compared to the population
     - Trends of cases/deaths over time, created a death percentage to visualize data more accurately
-    - Percentage of the U.S. population that contracted Covid vs global figures
-    - Total population versus recorded vaccinations over time, created a global vaccination rate and used TEMP table and CTE 
+    - Calculated the percentage of the U.S. population that contracted Covid-19 vs global figures
+    - Total population versus recorded vaccinations over time, calculated a global vaccination rate and used TEMP table and CTE 
     - All new vaccines administered in the US over time
     - Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
+    
 - Created views to store/condense the data in SSMS and then export into Tableau for data visualizations
 
 Built 3 different Tableau vizzes for final analysis:
