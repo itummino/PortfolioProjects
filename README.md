@@ -1,4 +1,4 @@
-# Current Projects
+# Isabel's Current Projects 📍
 ↩️[Homepage](https://itummino.github.io/Isabel-Tummino)
 
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266911-dcb66a00-c270-11eb-9df0-c20d82d87cad.png)
