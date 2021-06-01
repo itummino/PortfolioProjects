@@ -10,7 +10,7 @@ Data Analytics
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
 
-###  Points of interest: 
+###  Points of Interest: 
     - Countries with the highest infection rate and highest death count compared to the population
     - Trends of cases/deaths over time, created a death percentage to visualize data more accurately
     - Calculated the percentage of the U.S. population that contracted Covid-19 vs global figures
@@ -22,11 +22,14 @@ Data Analytics
     - [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
     - [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
-
+#### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
+------------------------------------------------------------------------------------------------------------------------------------
 
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ## College Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences, Location Findings
 ![](/images/map.jpg)
-
+#### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
+------------------------------------------------------------------------------------------------------------------------------------
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
 - This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
+- #### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
