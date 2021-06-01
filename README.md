@@ -23,7 +23,7 @@ Data Analyst Portfolio
     - [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 
-# [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
+# [U.S. College Study ~ Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ![](   ![](
 
 # [Nashville Housing Data ~ Stricly Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
