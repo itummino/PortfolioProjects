@@ -9,7 +9,7 @@ Data Analytics
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
-##### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
+#### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 
 ### Points of Interest: 
     - Countries with the highest infection rate and highest death count compared to the population
