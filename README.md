@@ -1,6 +1,5 @@
 # Isabel's Projects
-![image](https://user-images.githubusercontent.com/84094369/120266827-b690ca00-c270-11eb-85a9-4a4ab218bd0c.png)
-[Homepage](https://itummino.github.io/Isabel-Tummino)
+↩️[Homepage](https://itummino.github.io/Isabel-Tummino)
 
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266911-dcb66a00-c270-11eb-9df0-c20d82d87cad.png)
 ## A Global Look into Cases, Deaths, & Vaccinations Data
@@ -9,7 +8,7 @@
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
-#### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
+#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 
 ### Points of Interest: 
 - Countries with the highest infection rate and highest death count compared to the population
@@ -30,10 +29,10 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
-## College Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences, Location Findings
+## College Majors, Unemployment Rates, Post-Grad Salaries, Gender/Location Findings
 ![](/images/mapcollege.jpg)
-#### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
+#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ------------------------------------------------------------------------------------------------------------------------------------
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
 - This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
-- #### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
