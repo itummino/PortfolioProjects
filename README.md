@@ -2,8 +2,8 @@
 Data Analyst Portfolio
 
 
-# [Covid-19 Analysis ~ Cases, Deaths, Vaccinations Data](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
-
+# [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
+## Cases, Deaths, Vaccinations Data
 ![](/images/covid-19.jpg)  
 
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
@@ -23,9 +23,11 @@ Data Analyst Portfolio
     - [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 
+
+
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ## Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences
 ![](   ![](
 
-# [Nashville Housing Data ~ Stricly Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+# [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
 - This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
