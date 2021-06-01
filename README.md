@@ -26,7 +26,7 @@ Data Analytics
 
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ## College Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences, Location Findings
-![](/images/colleges1.jpeg)
+![](/images/map.jpg)
 
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
 - This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
