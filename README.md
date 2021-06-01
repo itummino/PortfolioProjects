@@ -4,7 +4,7 @@
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266911-dcb66a00-c270-11eb-9df0-c20d82d87cad.png)
 ## *A Global Look into Cases, Deaths, & Vaccinations Data*
 ![](/images/covid19.jpg)  
-### Sources/Procedure
+### Sources/Procedure:
 - Imported global Covid-19 data from [OurWorldInData](https://ourworldindata.org/covid-deaths) from pandemic start (Feb 2020) to (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
 - Used SQL data cleaning and complex queries to determine aggregate figures of total cases VS the population, analyzing trends between both the United States and around the globe
@@ -31,7 +31,7 @@
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
 ## *College Majors, Unemployment Rates, Post-Grad Salaries, Gender/Location Findings*
 ![](/images/mapcollege.jpg)
-### Sources/Procedure
+### Sources/Procedure:
 - Imported university post-grad salaries data from [Kaggle/Wall Street Journal](https://www.kaggle.com/wsj/college-salaries?select=salaries-by-college-type.csv)
 - Imported university majors/careers data from [American Community Survey](https://github.com/fivethirtyeight/data/tree/master/college-majors)
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
