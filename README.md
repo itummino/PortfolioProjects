@@ -22,12 +22,13 @@ Data Analytics
     - [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
     - [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
     - [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
+
 #### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ## College Majors, Unemployment Rates, Post-Grad Salaries, Gender Differences, Location Findings
-![](/images/collegemap.jpg)
+![](/images/mapcollege.jpg)
 #### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql)
 ------------------------------------------------------------------------------------------------------------------------------------
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
