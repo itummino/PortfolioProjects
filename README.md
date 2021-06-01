@@ -19,13 +19,13 @@ Data Analytics
     - All new vaccines administered in the US over time
     - Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
 
-#### Data Visualizations:
+### Data Visualizations:
     - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
     - Built 3 different vizzes in Tableau Public for final analysis (linked below):
     
-  ##### [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
-  ##### [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
-  ##### [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
+* [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
+* [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
+* [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
