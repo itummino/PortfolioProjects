@@ -12,12 +12,12 @@ Data Analytics
 #### [Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 
 ### Points of Interest: 
-    - Countries with the highest infection rate and highest death count compared to the population
-    - Trends of cases/deaths over time, created a death percentage to visualize data more accurately
-    - Calculated the percentage of the U.S. population that contracted Covid-19 vs global figures
-    - Total population versus recorded vaccinations over time, calculated a global vaccination rate and used TEMP table and CTE 
-    - All new vaccines administered in the US over time
-    - Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
+- Countries with the highest infection rate and highest death count compared to the population
+- Trends of cases/deaths over time, created a death percentage to visualize data more accurately
+- Calculated the percentage of the U.S. population that contracted Covid-19 vs global figures
+- Total population versus recorded vaccinations over time, calculated a global vaccination rate and used TEMP table and CTE 
+- All new vaccines administered in the US over time
+- Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
 
 ### Data Visualizations:
     - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
