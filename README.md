@@ -4,7 +4,7 @@ Data Analyst Portfolio
 
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql)
 ## A Global Look into Cases, Deaths, & Vaccinations Data
-![](/images/covid-19.jpg)  
+![](/images/covid19.jpg)  
 
 - Imported global Covid-19 data from ourworldindata.org from pandemic start (Feb 2020) to current (May 2021) into Microsoft SQL Server Management Studio
 - Extracted and organized case/deaths data and vaccinations data into two separate CSVs to perform table JOINs
