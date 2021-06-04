@@ -25,7 +25,7 @@
 
 ### Data Visualizations:
     - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
-    - Built 2 different vizzes in Tableau Public for final analysis (linked below):
+    - Built 2 detailed/condensed vizzes in Tableau Public for final analysis (linked below):
 * [Post-Grad Salaries Based on College Type, Location & Major](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy/Dashboard1)
 * [Career Paths, Gender Differences, Unemployment Rates](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy-CareerPathsGenderDifferencesUnemploymentRates/Dashboard1)
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -56,5 +56,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
-- This will be a series of data cleaning, which is useful for showcasing my SQL skills and ability to standardize data for efficiency and ease of use
+- This dataset was used strictly for data cleaning, here to showcase my SQL skills and ability to standardize data for efficiency and ease of use
+- Removing duplicates with CTE tables, breaking up address columns using PARSENAME, removed inconsistencies with CASE statements and windows functions
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
