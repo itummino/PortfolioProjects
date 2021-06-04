@@ -24,10 +24,10 @@
 - Created a location column based on the college name to see post-grad salaries based on different college locations (used this to create a map visualization)
 
 ### Data Visualizations:
-    - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
-    - Built 2 detailed/condensed vizzes in Tableau Public for final analysis (linked below):
-* [Post-Grad Salaries Based on College Type, Location & Major](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy/Dashboard1)
-* [Career Paths, Gender Differences, Unemployment Rates](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy-CareerPathsGenderDifferencesUnemploymentRates/Dashboard1)
+- Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
+- Built 2 detailed/condensed vizzes in Tableau Public for final analysis (linked below):
+#### [Post-Grad Salaries Based on College Type, Location & Major](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy/Dashboard1)
+#### [Career Paths, Gender Differences, Unemployment Rates](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy-CareerPathsGenderDifferencesUnemploymentRates/Dashboard1)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [Covid-19 Analysis](https://github.com/itummino/PortfolioProjects/blob/main/CovidData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266911-dcb66a00-c270-11eb-9df0-c20d82d87cad.png)
@@ -48,12 +48,11 @@
 - Total vaccinations administered globally according to income bracket (low, lower middle, upper middle, high income)
 
 ### Data Visualizations:
-    - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
-    - Built 3 different vizzes in Tableau Public for final analysis (linked below):
-    
-* [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
-* [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
-* [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
+- Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
+- Built 3 different vizzes in Tableau Public for final analysis (linked below): 
+#### [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
+#### [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
+#### [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
