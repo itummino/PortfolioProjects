@@ -58,9 +58,10 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) 
+## *The Evolution of Netflix Originals - Movies Edition*
 ![image](/images/smallnetflix.jpg)
 
-## *The Evolution of Netflix Originals - Movies Edition*
+
 
 ### Sources/Procedure:
 - Imported Netflix original movies and IMDB ratings data from 2014-2021 into one CSV from [Kaggle](https://www.kaggle.com/luiscorter/netflix-original-films-imdb-scores) which was downloaded from this [Wikipedia source](https://en.wikipedia.org/wiki/Lists_of_Netflix_original_films)
