@@ -26,6 +26,7 @@
 ### Data Visualizations:
 - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
 - Built 2 detailed/condensed vizzes in Tableau Public for final analysis (linked below):
+
 #### [Post-Grad Salaries Based on College Type, Location & Major](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy/Dashboard1)
 #### [Career Paths, Gender Differences, Unemployment Rates](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_CollegeStudy-CareerPathsGenderDifferencesUnemploymentRates/Dashboard1)
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -50,6 +51,7 @@
 ### Data Visualizations:
 - Created SQL views to store/condense the data in SSMS and then export into Tableau for data vizzes
 - Built 3 different vizzes in Tableau Public for final analysis (linked below): 
+
 #### [Global Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/GlobalCovid19Data/GlobalCovidData)
 #### [US Covid-19 Data](https://public.tableau.com/app/profile/isabel.tummino/viz/U_S_Covid19Data/U_S_CovidData)
 #### [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
@@ -60,3 +62,5 @@
 - Removing duplicates with CTE tables, removing rows with NULL values, breaking up address columns using PARSENAME
 - Removed inconsistencies with CASE statements and windows functions, converted DateTimes, used self JOIN
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+
+[Netflix Study](https://app.powerbi.com/reportEmbed?reportId=e1e8cc0d-89df-456a-8363-a5adab85367e&autoAuth=true&ctid=2c94bed6-d675-4d3d-a53b-7b461fd6acc2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
