@@ -57,5 +57,6 @@
 
 # [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
 - This dataset was used strictly for data cleaning, here to showcase my SQL skills and ability to standardize data for efficiency and ease of use
-- Removing duplicates with CTE tables, breaking up address columns using PARSENAME, removed inconsistencies with CASE statements and windows functions
+- Removing duplicates with CTE tables, removing rows with NULL values, breaking up address columns using PARSENAME
+- Removed inconsistencies with CASE statements and windows functions, converted DateTimes, used self JOIN
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
