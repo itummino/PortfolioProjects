@@ -64,7 +64,7 @@
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
+# [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) ![image]()
 
 [Netflix Study](https://app.powerbi.com/reportEmbed?reportId=e1e8cc0d-89df-456a-8363-a5adab85367e&autoAuth=true&ctid=2c94bed6-d675-4d3d-a53b-7b461fd6acc2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
 - If you do not have a Microsoft Power BI account or are unable to view the above link (a Power BI access issue) here is a non-interactive lower quality PDF of the dashboard that will have to do:
