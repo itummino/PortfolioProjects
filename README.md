@@ -57,6 +57,32 @@
 #### [Global Vaccinations Data](https://public.tableau.com/app/profile/isabel.tummino/viz/VaccinationsData/GlobalVaccinationData)
 ------------------------------------------------------------------------------------------------------------------------------------
 
+# [Toast, Inc. Case Study](https://github.com/itummino/PortfolioProjects/blob/main/oSAProductivity.sql) 
+## *A Research Study on Outbound Sales Associates Performance in 2019* 
+![image](/images/toast-pos-2.jpeg)
+## Sources/Procedure:
+*In 2021, I was assigned a case study during the hiring process for Toast, in which my main objective was to analyze a large dataset from 2019 to calculate the sales opportunities per working day per oSA and investigate why this declined throughout the year (sensitive info has been manipulated for viewing).*
+- Divided the dataset tabs (Master_SA, Master_Dates, Master_AE) into 3 different Excel spreadsheets and extracted these into Microsoft SQL Server Management Studio for analyzing
+- Performed data cleaning/standardizing on all spreadsheets, corrected all column header names to meet SQL criteria/format, deleted unnecessary columns, duplicates, nulls
+- Calculated Win Rates for outbound sales associates for every row in the dataset using data from TotalWins and TotalOpps columns
+- Analyzed connect rates, show rates, average and max win rates by month, volume of total employees hired and separated by office location
+#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/oSAProductivity.sql)
+
+### Points of Interest: 
+- Rapid employee growth was a top factor in decline of opportunities per oSA; the employee count must be assessed at all times to avoid a reverse growth pattern.
+- The more employees hired during back-to-back months, the more unramped (novice) oSA’s there will be -- who will have less access to sales opportunities compared to the high performers with more seniority
+- Since the sales stats for oSA’s were significantly higher or lower depending on which manager they are grouped under, the top performing managers should focus on training/guiding the lowest performers to yield higher success rates and to share their sales strategies
+- Location: The Omaha, NE office has far less sales opportunity and SA wins than the Boston, MA office. Recommendation: Expand the office locations into higher volume areas similar to Boston, so that there will be more available opportunities per oSA
+- Sales success rates are much higher when oSA’s are paired with 2 Account Executives (AE) compared to 1. Recommendation: The ratio of oSA’s to AE’s should be assessed based on performance and to assign extra AE’s, especially when there's a surge of new employee onboarding
+
+### Data Visualizations:
+- The last section of the case study was to visualize my findings, so I exported my SQL views in SSMS to Tableau
+- Created 2 different vizzes in Tableau Public for final analysis (linked below): 
+
+#### [Toast, Inc 2019 Sales Stats](https://public.tableau.com/app/profile/isabel.tummino/viz/2019SalesProductivity/oSAProductivity)
+#### [Additional Research & Stats](https://public.tableau.com/app/profile/isabel.tummino/viz/2019SalesProductivitAdditionalStats/AdditionalStats)
+------------------------------------------------------------------------------------------------------------------------------------
+
 # [Netflix Study](https://github.com/itummino/PortfolioProjects/blob/main/NetflixData.sql) 
 ## *The Evolution of Netflix Originals - Movies Edition*
 ![image](/images/smallnetflix.jpg)
