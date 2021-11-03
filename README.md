@@ -5,10 +5,10 @@
 ## *A standalone project to showcase my data cleaning skills, both in R and SQL*
 ### Dataset Source: [Nashville Housing](https://www.kaggle.com/tmthyjames/nashville-housing-data)
 - Both projects outline my ability to standardize data for efficiency and ease of use
-- RStudio Cloud and RMarkdown were used in the making of this project
 
 #### 👉[Click here to view my R Code](https://rpubs.com/itummino21/R)
 #### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+- RStudio Cloud and RMarkdown were used in the creation of this^
 ------------------------------------------------------------------------------------------------------------------------------------
 
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
