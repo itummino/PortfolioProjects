@@ -1,6 +1,16 @@
 # Current Projects 📍
 ↩️[Homepage](https://itummino.github.io/Isabel-Tummino)
 
+# [Nashville Housing - Data Cleaning](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
+## *A standalone project to showcase my data cleaning skills, both in R and SQL*
+### Dataset Source: [Nashville Housing](https://www.kaggle.com/tmthyjames/nashville-housing-data)
+- Both projects outline my ability to standardize data for efficiency and ease of use
+- RStudio Cloud and RMarkdown were used in the making of this project
+
+#### 👉[Click here to view my R Code](https://rpubs.com/itummino21/R)
+#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+------------------------------------------------------------------------------------------------------------------------------------
+
 # [U.S. College Study](https://github.com/itummino/PortfolioProjects/blob/main/CollegeData.sql) ![image](https://user-images.githubusercontent.com/84094369/120266976-053e6400-c271-11eb-878b-386c5a803d44.png)
 ## *An Economic Take on College Career Paths, Post-Grad Unemployment Rates & Gender/Location Salary Differences*
 ![](/images/mapcollege.jpg)
@@ -111,10 +121,7 @@
 #### [Netflix Study](https://raw.githubusercontent.com/itummino/PortfolioProjects/main/images/Nextflix%20Study.PNG)
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# [Nashville Housing Data](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql) ![image](https://user-images.githubusercontent.com/84094369/120267077-39198980-c271-11eb-9e1b-5d23b5c690d4.png)
-- This dataset was used strictly for data cleaning, here to showcase my SQL skills and ability to standardize data for efficiency and ease of use
-- Removing duplicates with CTE tables, removing rows with NULL values, breaking up address columns using PARSENAME
-- Removed inconsistencies with CASE statements and windows functions, converted DateTimes, used self JOIN
-#### 👉[Click here to view my SQL Code](https://github.com/itummino/PortfolioProjects/blob/main/HousingData.sql)
+
+
 
 
